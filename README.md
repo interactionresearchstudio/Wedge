@@ -1,6 +1,6 @@
 # ProbeTools Wedge
 
-These STL files can be used for 3D printing. [Click here](https://a360.co/2qtXSVf) for editable Fusion 360 files.
+These STL files can be used for 3D printing. [Click here](http://a360.co/2AE29v4) for editable Fusion 360 files.
 
 ## Terms of Use
  
